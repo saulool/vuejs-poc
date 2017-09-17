@@ -1,6 +1,6 @@
 # Vue POC
 
-> A Vue.js POC
+> A Vue.js POC that fetches repositories from my github
 
 ## Build Setup
 
